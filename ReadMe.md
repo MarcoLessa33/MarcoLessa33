@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Apaixonado por Ciência e Tecnologia<br>🌱 Estudando Análise e Ciência de Dados<br>🤝 Formado em Engenharia.
+🔭 Apaixonado por Ciência e Tecnologia<br>🌱 Análise e Ciência de Dados<br>🤝 Formado em Engenharia.
 
 
 ## 🌐 Socials:
